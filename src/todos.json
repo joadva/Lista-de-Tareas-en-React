@@ -1,0 +1,27 @@
+{
+ "todos" :[
+ 	{
+ 		"title": "Tareas ",
+ 		"responsible": "Jacqui",
+ 		"description": "lorem impsum",
+ 		"priority": "low"
+
+ },{ 
+ 		"title": "Notas",
+ 		"responsible": "Irie",
+ 		"description": "lorem impsum",
+ 		"priority": "Medium"
+
+ },{
+ 		"title": "Avisos",	
+ 		"responsible": "Wilitho",
+ 		"description": "lorem impsum",
+ 		"priority": "HIGH"
+ },{
+ 		"title": "Recordatorios",	
+ 		"responsible": "Adrian",
+ 		"description": "lorem impsum",
+ 		"priority": "HIGHg"
+ }]
+
+}
